@@ -1,11 +1,9 @@
-<h1 align="center">Olá 👋, meu é Jorge</h1>
-<h3 align="center">Sou um estudante de programação</h3>
+<h1 align="center">Olá 👋, meu nome é Jorge</h1>
+<h3 align="center">Sou um estudante de programação em busca de conhecimentos, que vai me capacitar para se tornar um excelente profissional na área da programação</h3>
 
 - 🌱 Cursando o curso técnico em **Desenvolvimento de Sistemas**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/1997jorge](https://github.com/1997jorge)
-
-- 📫 Vocês podem me encontrar **jorge.sousag7@gmail.com**
 
 - ⚡ Curiosidade **Sou são paulino**
 
