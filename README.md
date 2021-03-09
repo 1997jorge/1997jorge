@@ -3,7 +3,7 @@
 
 - 🌱 Cursando o **Curso Técnico em Desenvolvimento de Sistemas** na Escola **SENAI Suíço-Brasileira Paulo Ernesto Tolle**.
 
-- ⚡ Curiosidade **Sou torcedor do São Paulo Futebol Clube**
+- ⚡ Curiosidade **Sou torcedor do São Paulo Futebol Clube.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1997jorge&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
